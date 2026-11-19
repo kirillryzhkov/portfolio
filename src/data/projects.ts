@@ -11,7 +11,7 @@ export const PROJECTS_META: ProjectStaticMeta[] = [
     id: 'diary',
     number: '01',
     stack: ['Python', 'Django', 'DRF', 'SimpleJWT', 'Swagger', 'SQLite', 'i18n'],
-    githubUrl: 'https://github.com/kirillryzhkov',
+    githubUrl: 'https://github.com/kirillryzhkov/electronic-diary-system',
     images: ['/projects/diary-1.webp', '/projects/diary-2.webp', '/projects/diary-3.webp'],
   },
   {
@@ -40,6 +40,7 @@ export const PROJECTS_META: ProjectStaticMeta[] = [
     id: 'animeshka',
     number: '04',
     stack: ['Node.js', 'Express', 'Handlebars', 'SQLite', 'REST API'],
+    githubUrl: 'https://github.com/kirillryzhkov/animeSiteInfo',
     images: [
       '/projects/animeshka-1.webp',
       '/projects/animeshka-2.webp',
@@ -65,6 +66,7 @@ export const PROJECTS_META: ProjectStaticMeta[] = [
     id: 'spotik',
     number: '06',
     stack: ['Python', 'Telegram Bot API', 'Spotipy', 'SQLite'],
+    githubUrl: 'https://github.com/kirillryzhkov/opiumbot2.0',
     images: ['/projects/spotik-1.webp', '/projects/spotik-2.webp'],
   },
 ];
